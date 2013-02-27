@@ -1,0 +1,6 @@
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\9.DefiningClasses\1.MobilePhone\bin\Debug\1.MobilePhone.exe
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\9.DefiningClasses\1.MobilePhone\bin\Debug\1.MobilePhone.pdb
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\9.DefiningClasses\1.MobilePhone\obj\x86\Debug\1.MobilePhone.exe
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\9.DefiningClasses\1.MobilePhone\obj\x86\Debug\1.MobilePhone.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartI\1.MobilePhone\obj\x86\Debug\1.MobilePhone.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartI\1.MobilePhone\obj\x86\Debug\1.MobilePhone.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MobilePhoneInfo", "..\..\..\..\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\9.DefiningClasses\1.MobilePhone\1.MobilePhoneInfo.csproj", "{51F1C4F0-6C59-4E64-92C7-BD4CA9A00D3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.MobilePhoneInfo", "1.MobilePhone\1.MobilePhoneInfo.csproj", "{51F1C4F0-6C59-4E64-92C7-BD4CA9A00D3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
