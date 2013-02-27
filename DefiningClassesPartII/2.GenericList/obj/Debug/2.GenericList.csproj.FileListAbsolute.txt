@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList\bin\Debug\2.GenericList.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList\bin\Debug\2.GenericList.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList\obj\Debug\2.GenericList.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList\obj\Debug\2.GenericList.pdb

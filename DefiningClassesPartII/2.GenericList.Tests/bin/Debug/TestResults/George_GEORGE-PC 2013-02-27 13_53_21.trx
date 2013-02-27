@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e3da9b21-3fc1-41d8-a29e-de5d0c90abb6" name="George@GEORGE-PC 2013-02-27 13:53:21" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 13_53_21" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T13:53:21.0253562+02:00" queuing="2013-02-27T13:53:21.2793708+02:00" start="2013-02-27T13:53:21.4553808+02:00" finish="2013-02-27T13:53:21.7703988+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ClearTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\2.genericlist.tests\bin\debug\2.genericlist.tests.dll" id="b936e783-96b5-a4f0-d098-4fe1369b4f25">
+      <Execution timeOut="1800000" id="b2ff1c47-8b49-42ab-9dc4-21d6bfb7288e" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/2.GenericList.Tests/bin/Debug/2.GenericList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_2.GenericList.Tests.GenericListTest, 2.GenericList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ClearTest" />
+    </UnitTest>
+    <UnitTest name="ExpandListTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\2.genericlist.tests\bin\debug\2.genericlist.tests.dll" id="82b84418-4094-54b6-cea3-3ed23068f3e1">
+      <Execution timeOut="1800000" id="98d718be-5795-4c71-ba7b-9a1f16f343ee" />
+      <DeploymentItems>
+        <DeploymentItem filename="2.GenericList.dll" />
+      </DeploymentItems>
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/2.GenericList.Tests/bin/Debug/2.GenericList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_2.GenericList.Tests.GenericListTest, 2.GenericList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ExpandListTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b936e783-96b5-a4f0-d098-4fe1369b4f25" executionId="b2ff1c47-8b49-42ab-9dc4-21d6bfb7288e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="82b84418-4094-54b6-cea3-3ed23068f3e1" executionId="98d718be-5795-4c71-ba7b-9a1f16f343ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b2ff1c47-8b49-42ab-9dc4-21d6bfb7288e" testId="b936e783-96b5-a4f0-d098-4fe1369b4f25" testName="ClearTest" computerName="GEORGE-PC" duration="00:00:00.0489485" startTime="2013-02-27T13:53:21.5593868+02:00" endTime="2013-02-27T13:53:21.6743933+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b2ff1c47-8b49-42ab-9dc4-21d6bfb7288e">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at _2.GenericList.Tests.GenericListTest.ClearTestHelper[T]() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\GenericListTest.cs:line 77
+   at _2.GenericList.Tests.GenericListTest.ClearTest() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\GenericListTest.cs:line 83
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="98d718be-5795-4c71-ba7b-9a1f16f343ee" testId="82b84418-4094-54b6-cea3-3ed23068f3e1" testName="ExpandListTest" computerName="GEORGE-PC" duration="00:00:00.0270656" startTime="2013-02-27T13:53:21.6763935+02:00" endTime="2013-02-27T13:53:21.7033950+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="98d718be-5795-4c71-ba7b-9a1f16f343ee">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method _2.GenericList.Tests.GenericListTest.ExpandListTest threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>   at _2.GenericList.GenericList_Accessor`1.ExpandList()
+   at _2.GenericList.Tests.GenericListTest.ExpandListTestHelper[T]() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\GenericListTest.cs:line 93
+   at _2.GenericList.Tests.GenericListTest.ExpandListTest() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\GenericListTest.cs:line 101
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

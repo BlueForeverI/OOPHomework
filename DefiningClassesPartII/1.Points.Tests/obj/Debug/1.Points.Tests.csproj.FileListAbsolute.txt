@@ -1,0 +1,9 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\bin\Debug\1.Points.Tests.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\bin\Debug\1.Points.Tests.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\bin\Debug\1.Points.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\bin\Debug\1.Points.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\obj\Debug\1.Points.Tests.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\obj\Debug\1.Points.Tests.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\obj\Debug\1.Points.Tests.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\bin\Debug\3.Matrix.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\bin\Debug\3.Matrix.pdb

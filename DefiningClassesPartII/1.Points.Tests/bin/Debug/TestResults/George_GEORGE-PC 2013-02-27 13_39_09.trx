@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b50a965a-dd70-43ee-afc0-5551164a0c93" name="George@GEORGE-PC 2013-02-27 13:39:09" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 13_39_09" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T13:39:09.6196586+02:00" queuing="2013-02-27T13:39:09.8736731+02:00" start="2013-02-27T13:39:10.0826851+02:00" finish="2013-02-27T13:39:10.7547235+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateDistanceBetweenPointsTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="456623d3-5b5f-0bf0-df6a-d5494b710165">
+      <Execution timeOut="1800000" id="323e02ef-b21a-461a-887b-fea7769f54af" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PointOperationsTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateDistanceBetweenPointsTest" />
+    </UnitTest>
+    <UnitTest name="LoadPathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="a9cc6342-c50e-56fe-985d-21ce2ed294de">
+      <Execution timeOut="1800000" id="efe1e711-d735-441f-8e96-d6f2d6fa9b22" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadPathTest" />
+    </UnitTest>
+    <UnitTest name="SavePathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="7ed68b98-6843-dbbc-3ebc-fe55dbca1315">
+      <Execution timeOut="1800000" id="ec529bd8-2939-4a4d-b655-587842dbed22" />
+      <DeploymentItems>
+        <DeploymentItem filename="1.Points.dll" />
+      </DeploymentItems>
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SavePathTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a9cc6342-c50e-56fe-985d-21ce2ed294de" executionId="efe1e711-d735-441f-8e96-d6f2d6fa9b22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" executionId="ec529bd8-2939-4a4d-b655-587842dbed22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="456623d3-5b5f-0bf0-df6a-d5494b710165" executionId="323e02ef-b21a-461a-887b-fea7769f54af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="efe1e711-d735-441f-8e96-d6f2d6fa9b22" testId="a9cc6342-c50e-56fe-985d-21ce2ed294de" testName="LoadPathTest" computerName="GEORGE-PC" duration="00:00:00.4166173" startTime="2013-02-27T13:39:10.1856910+02:00" endTime="2013-02-27T13:39:10.6707187+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="efe1e711-d735-441f-8e96-d6f2d6fa9b22">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;_1.Points.Path&gt;. Actual:&lt;_1.Points.Path&gt;. </Message>
+          <StackTrace>   at _1.Points.Tests.PathStorageTest.LoadPathTest() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\PathStorageTest.cs:line 103
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ec529bd8-2939-4a4d-b655-587842dbed22" testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" testName="SavePathTest" computerName="GEORGE-PC" duration="00:00:00.0009775" startTime="2013-02-27T13:39:10.6727188+02:00" endTime="2013-02-27T13:39:10.6787192+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec529bd8-2939-4a4d-b655-587842dbed22">
+    </UnitTestResult>
+    <UnitTestResult executionId="323e02ef-b21a-461a-887b-fea7769f54af" testId="456623d3-5b5f-0bf0-df6a-d5494b710165" testName="CalculateDistanceBetweenPointsTest" computerName="GEORGE-PC" duration="00:00:00.0021654" startTime="2013-02-27T13:39:10.6807193+02:00" endTime="2013-02-27T13:39:10.6847195+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="323e02ef-b21a-461a-887b-fea7769f54af">
+    </UnitTestResult>
+  </Results>
+</TestRun>

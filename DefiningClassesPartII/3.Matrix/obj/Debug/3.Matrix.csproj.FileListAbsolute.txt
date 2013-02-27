@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\3.Matrix\bin\Debug\3.Matrix.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\3.Matrix\bin\Debug\3.Matrix.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\3.Matrix\obj\Debug\3.Matrix.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\3.Matrix\obj\Debug\3.Matrix.pdb

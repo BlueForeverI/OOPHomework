@@ -1,0 +1,9 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\bin\Debug\2.GenericList.Tests.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\bin\Debug\2.GenericList.Tests.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\bin\Debug\2.GenericList.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\bin\Debug\2.GenericList.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\bin\Debug\2.GenericList_Accessor.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\bin\Debug\2.GenericList_Accessor.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\obj\Debug\2.GenericList.Tests.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\obj\Debug\2.GenericList.Tests.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList.Tests\obj\Debug\2.GenericList.Tests.pdb

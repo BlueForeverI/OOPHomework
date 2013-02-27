@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f6762cfb-c80f-43c9-85c4-bc02187ecbb1" name="George@GEORGE-PC 2013-02-27 14:55:16" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 14_55_16">
+      <DeploymentItem filename="E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points\bin\Debug\1.Points.dll" />
+      <DeploymentItem filename="E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\3.Matrix\bin\Debug\3.Matrix.dll" />
+      <DeploymentItem filename="E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\2.GenericList\bin\Debug\2.GenericList.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T14:55:16.0538437+02:00" queuing="2013-02-27T14:55:16.1218476+02:00" start="2013-02-27T14:55:16.1358484+02:00" finish="2013-02-27T14:55:16.6088754+02:00" />
+  <ResultSummary outcome="Warning">
+    <Counters total="7" executed="7" passed="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="GEORGE-PC" outcome="Warning" timestamp="2013-02-27T14:55:16.1218476+02:00">
+        <Text>Deployment is currently disabled. The deployment item '1.Points.dll' on test '_1.Points.Tests.PathStorageTest.SavePathTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SavePathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="7ed68b98-6843-dbbc-3ebc-fe55dbca1315">
+      <DeploymentItems>
+        <DeploymentItem filename="1.Points.dll" />
+      </DeploymentItems>
+      <Execution id="bdc8e848-612d-49b6-898c-e3ded6aaae79" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SavePathTest" />
+    </UnitTest>
+    <UnitTest name="MaxTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\2.genericlist.tests\bin\debug\2.genericlist.tests.dll" id="6457a405-daf2-0ea4-4517-7b6f12ffdbd5">
+      <Execution id="7238fc16-acfc-4af4-a962-3bb317ff3b98" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/2.GenericList.Tests/bin/Debug/2.GenericList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_2.GenericList.Tests.GenericListTest, 2.GenericList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MaxTest" />
+    </UnitTest>
+    <UnitTest name="ExpandListTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\2.genericlist.tests\bin\debug\2.genericlist.tests.dll" id="82b84418-4094-54b6-cea3-3ed23068f3e1">
+      <DeploymentItems>
+        <DeploymentItem filename="2.GenericList.dll" />
+      </DeploymentItems>
+      <Execution id="00a62597-32af-4953-9539-17b2c41f9090" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/2.GenericList.Tests/bin/Debug/2.GenericList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_2.GenericList.Tests.GenericListTest, 2.GenericList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ExpandListTest" />
+    </UnitTest>
+    <UnitTest name="ClearTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\2.genericlist.tests\bin\debug\2.genericlist.tests.dll" id="b936e783-96b5-a4f0-d098-4fe1369b4f25">
+      <Execution id="0bc1ad96-fea5-4b2d-af91-567a2b8c1d02" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/2.GenericList.Tests/bin/Debug/2.GenericList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_2.GenericList.Tests.GenericListTest, 2.GenericList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ClearTest" />
+    </UnitTest>
+    <UnitTest name="MinTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\2.genericlist.tests\bin\debug\2.genericlist.tests.dll" id="e5584b8d-94f1-0c62-d740-4cdb4428582a">
+      <Execution id="72a3b43b-8709-4b7f-a1a7-4be5d55bbd55" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/2.GenericList.Tests/bin/Debug/2.GenericList.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_2.GenericList.Tests.GenericListTest, 2.GenericList.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MinTest" />
+    </UnitTest>
+    <UnitTest name="CalculateDistanceBetweenPointsTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="456623d3-5b5f-0bf0-df6a-d5494b710165">
+      <Execution id="ceab5687-0bb1-4224-baf3-709ad7f28032" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PointOperationsTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateDistanceBetweenPointsTest" />
+    </UnitTest>
+    <UnitTest name="LoadPathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="a9cc6342-c50e-56fe-985d-21ce2ed294de">
+      <Execution id="59941c50-0f3a-4c24-a9c9-f32588af6ce7" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadPathTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="456623d3-5b5f-0bf0-df6a-d5494b710165" executionId="ceab5687-0bb1-4224-baf3-709ad7f28032" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6457a405-daf2-0ea4-4517-7b6f12ffdbd5" executionId="7238fc16-acfc-4af4-a962-3bb317ff3b98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" executionId="bdc8e848-612d-49b6-898c-e3ded6aaae79" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="82b84418-4094-54b6-cea3-3ed23068f3e1" executionId="00a62597-32af-4953-9539-17b2c41f9090" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9cc6342-c50e-56fe-985d-21ce2ed294de" executionId="59941c50-0f3a-4c24-a9c9-f32588af6ce7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b936e783-96b5-a4f0-d098-4fe1369b4f25" executionId="0bc1ad96-fea5-4b2d-af91-567a2b8c1d02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e5584b8d-94f1-0c62-d740-4cdb4428582a" executionId="72a3b43b-8709-4b7f-a1a7-4be5d55bbd55" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ceab5687-0bb1-4224-baf3-709ad7f28032" testId="456623d3-5b5f-0bf0-df6a-d5494b710165" testName="CalculateDistanceBetweenPointsTest" computerName="GEORGE-PC" duration="00:00:00.0157182" startTime="2013-02-27T14:55:16.1388486+02:00" endTime="2013-02-27T14:55:16.3278594+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ceab5687-0bb1-4224-baf3-709ad7f28032">
+    </UnitTestResult>
+    <UnitTestResult executionId="7238fc16-acfc-4af4-a962-3bb317ff3b98" testId="6457a405-daf2-0ea4-4517-7b6f12ffdbd5" testName="MaxTest" computerName="GEORGE-PC" duration="00:00:00.0161022" startTime="2013-02-27T14:55:16.3298595+02:00" endTime="2013-02-27T14:55:16.5028694+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7238fc16-acfc-4af4-a962-3bb317ff3b98">
+    </UnitTestResult>
+    <UnitTestResult executionId="bdc8e848-612d-49b6-898c-e3ded6aaae79" testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" testName="SavePathTest" computerName="GEORGE-PC" duration="00:00:00.0168450" startTime="2013-02-27T14:55:16.5068696+02:00" endTime="2013-02-27T14:55:16.5258707+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bdc8e848-612d-49b6-898c-e3ded6aaae79">
+    </UnitTestResult>
+    <UnitTestResult executionId="00a62597-32af-4953-9539-17b2c41f9090" testId="82b84418-4094-54b6-cea3-3ed23068f3e1" testName="ExpandListTest" computerName="GEORGE-PC" duration="00:00:00.0004720" startTime="2013-02-27T14:55:16.5298709+02:00" endTime="2013-02-27T14:55:16.5328711+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00a62597-32af-4953-9539-17b2c41f9090">
+    </UnitTestResult>
+    <UnitTestResult executionId="59941c50-0f3a-4c24-a9c9-f32588af6ce7" testId="a9cc6342-c50e-56fe-985d-21ce2ed294de" testName="LoadPathTest" computerName="GEORGE-PC" duration="00:00:00.0065037" startTime="2013-02-27T14:55:16.5338712+02:00" endTime="2013-02-27T14:55:16.5448718+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59941c50-0f3a-4c24-a9c9-f32588af6ce7">
+    </UnitTestResult>
+    <UnitTestResult executionId="0bc1ad96-fea5-4b2d-af91-567a2b8c1d02" testId="b936e783-96b5-a4f0-d098-4fe1369b4f25" testName="ClearTest" computerName="GEORGE-PC" duration="00:00:00.0012674" startTime="2013-02-27T14:55:16.5468719+02:00" endTime="2013-02-27T14:55:16.5518722+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0bc1ad96-fea5-4b2d-af91-567a2b8c1d02">
+    </UnitTestResult>
+    <UnitTestResult executionId="72a3b43b-8709-4b7f-a1a7-4be5d55bbd55" testId="e5584b8d-94f1-0c62-d740-4cdb4428582a" testName="MinTest" computerName="GEORGE-PC" duration="00:00:00.0015954" startTime="2013-02-27T14:55:16.5528722+02:00" endTime="2013-02-27T14:55:16.5608727+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="72a3b43b-8709-4b7f-a1a7-4be5d55bbd55">
+    </UnitTestResult>
+  </Results>
+</TestRun>

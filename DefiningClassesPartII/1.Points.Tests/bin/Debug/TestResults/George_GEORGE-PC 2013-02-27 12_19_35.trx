@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="995a660b-2a20-44a1-a1e8-97f1a4d4f75a" name="George@GEORGE-PC 2013-02-27 12:19:35" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 12_19_35" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T12:19:35.4155512+02:00" queuing="2013-02-27T12:19:35.9495817+02:00" start="2013-02-27T12:19:36.4446100+02:00" finish="2013-02-27T12:19:40.7528565+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateDistanceBetweenPointsTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="456623d3-5b5f-0bf0-df6a-d5494b710165">
+      <Execution timeOut="1800000" id="1fbe94cf-a949-4e91-9e32-63995d65a08e" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PointOperationsTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateDistanceBetweenPointsTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="456623d3-5b5f-0bf0-df6a-d5494b710165" executionId="1fbe94cf-a949-4e91-9e32-63995d65a08e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1fbe94cf-a949-4e91-9e32-63995d65a08e" testId="456623d3-5b5f-0bf0-df6a-d5494b710165" testName="CalculateDistanceBetweenPointsTest" computerName="GEORGE-PC" duration="00:00:00.0781972" startTime="2013-02-27T12:19:40.5358441+02:00" endTime="2013-02-27T12:19:40.6818524+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1fbe94cf-a949-4e91-9e32-63995d65a08e">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;7,81024967590665&gt;. Actual:&lt;5&gt;. </Message>
+          <StackTrace>   at _1.Points.Tests.PointOperationsTest.CalculateDistanceBetweenPointsTest() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\PointOperationsTest.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

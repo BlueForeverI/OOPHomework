@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\VersionAttribute\bin\Debug\VersionAttribute.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\VersionAttribute\bin\Debug\VersionAttribute.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\VersionAttribute\obj\x86\Debug\VersionAttribute.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\VersionAttribute\obj\x86\Debug\VersionAttribute.pdb

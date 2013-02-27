@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="58bf9cd5-b62e-4b3b-a467-cc2b63827ce7" name="George@GEORGE-PC 2013-02-27 13:12:03" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 13_12_03" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T13:12:03.7076618+02:00" queuing="2013-02-27T13:12:03.9676766+02:00" start="2013-02-27T13:12:04.1526872+02:00" finish="2013-02-27T13:12:04.4667052+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateDistanceBetweenPointsTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="456623d3-5b5f-0bf0-df6a-d5494b710165">
+      <Execution timeOut="1800000" id="189dd1f3-2da7-4158-8300-86a49530e70b" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PointOperationsTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateDistanceBetweenPointsTest" />
+    </UnitTest>
+    <UnitTest name="SavePathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="7ed68b98-6843-dbbc-3ebc-fe55dbca1315">
+      <Execution timeOut="1800000" id="50ede619-fa68-4d1e-8d2f-531497fcb35f" />
+      <DeploymentItems>
+        <DeploymentItem filename="1.Points.dll" />
+      </DeploymentItems>
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SavePathTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" executionId="50ede619-fa68-4d1e-8d2f-531497fcb35f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="456623d3-5b5f-0bf0-df6a-d5494b710165" executionId="189dd1f3-2da7-4158-8300-86a49530e70b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="50ede619-fa68-4d1e-8d2f-531497fcb35f" testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" testName="SavePathTest" computerName="GEORGE-PC" duration="00:00:00.0507475" startTime="2013-02-27T13:12:04.2786944+02:00" endTime="2013-02-27T13:12:04.3907008+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50ede619-fa68-4d1e-8d2f-531497fcb35f">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method _1.Points.Tests.PathStorageTest.SavePathTest threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at _1.Points.Tests.PathStorageTest.SavePathTest() in E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points.Tests\PathStorageTest.cs:line 76
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="189dd1f3-2da7-4158-8300-86a49530e70b" testId="456623d3-5b5f-0bf0-df6a-d5494b710165" testName="CalculateDistanceBetweenPointsTest" computerName="GEORGE-PC" duration="00:00:00.0025576" startTime="2013-02-27T13:12:04.3927009+02:00" endTime="2013-02-27T13:12:04.3957011+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="189dd1f3-2da7-4158-8300-86a49530e70b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9ed656d7-992b-4ef7-bf59-7a4e705cca9d" name="George@GEORGE-PC 2013-02-27 13:35:17" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 13_35_17">
+      <DeploymentItem filename="E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points\bin\Debug\1.Points.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T13:35:17.1283609+02:00" queuing="2013-02-27T13:35:18.2554253+02:00" start="2013-02-27T13:35:18.3744321+02:00" finish="2013-02-27T13:35:37.1375053+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="GEORGE-PC" outcome="Error" timestamp="2013-02-27T13:35:37.1365053+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="LoadPathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="a9cc6342-c50e-56fe-985d-21ce2ed294de">
+      <Execution id="ff4c9eaf-ad93-4083-bac2-e11d7747d8e3" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadPathTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a9cc6342-c50e-56fe-985d-21ce2ed294de" executionId="ff4c9eaf-ad93-4083-bac2-e11d7747d8e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ff4c9eaf-ad93-4083-bac2-e11d7747d8e3" testId="a9cc6342-c50e-56fe-985d-21ce2ed294de" testName="LoadPathTest" computerName="GEORGE-PC" duration="00:00:18.6620674" startTime="2013-02-27T13:35:18.4754379+02:00" endTime="2013-02-27T13:35:37.1375053+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ff4c9eaf-ad93-4083-bac2-e11d7747d8e3">
+    </UnitTestResult>
+  </Results>
+</TestRun>

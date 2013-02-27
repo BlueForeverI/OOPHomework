@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="344388a1-f4ab-4f20-be02-587dd6c517d4" name="George@GEORGE-PC 2013-02-27 13:15:26" runUser="George-PC\George" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b7f7b3f6-a22c-45c1-856b-22b886052c84">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="George_GEORGE-PC 2013-02-27 13_15_26">
+      <DeploymentItem filename="E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\DefiningClassesPartII\1.Points\bin\Debug\1.Points.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-27T13:15:26.0042325+02:00" queuing="2013-02-27T13:15:28.3913690+02:00" start="2013-02-27T13:15:28.5573785+02:00" finish="2013-02-27T13:15:54.2098457+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="GEORGE-PC" outcome="Error" timestamp="2013-02-27T13:15:54.2088457+02:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalculateDistanceBetweenPointsTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="456623d3-5b5f-0bf0-df6a-d5494b710165">
+      <Execution id="2edaa84d-1d2a-48ab-8770-de655d857196" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PointOperationsTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateDistanceBetweenPointsTest" />
+    </UnitTest>
+    <UnitTest name="SavePathTest" storage="e:\documents\telerik-software-academy\oop\oophomework\definingclassespartii\1.points.tests\bin\debug\1.points.tests.dll" id="7ed68b98-6843-dbbc-3ebc-fe55dbca1315">
+      <DeploymentItems>
+        <DeploymentItem filename="1.Points.dll" />
+      </DeploymentItems>
+      <Execution id="7356b7db-8acb-4608-8400-2be569b206e1" />
+      <TestMethod codeBase="E:/Documents/Telerik-Software-Academy/OOP/OOPHomework/DefiningClassesPartII/1.Points.Tests/bin/Debug/1.Points.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="_1.Points.Tests.PathStorageTest, 1.Points.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SavePathTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="456623d3-5b5f-0bf0-df6a-d5494b710165" executionId="2edaa84d-1d2a-48ab-8770-de655d857196" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" executionId="7356b7db-8acb-4608-8400-2be569b206e1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2edaa84d-1d2a-48ab-8770-de655d857196" testId="456623d3-5b5f-0bf0-df6a-d5494b710165" testName="CalculateDistanceBetweenPointsTest" computerName="GEORGE-PC" duration="00:00:00.0183515" startTime="2013-02-27T13:15:28.6933863+02:00" endTime="2013-02-27T13:15:29.3374231+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2edaa84d-1d2a-48ab-8770-de655d857196">
+    </UnitTestResult>
+    <UnitTestResult executionId="7356b7db-8acb-4608-8400-2be569b206e1" testId="7ed68b98-6843-dbbc-3ebc-fe55dbca1315" testName="SavePathTest" computerName="GEORGE-PC" duration="00:00:24.8524214" startTime="2013-02-27T13:15:29.3574243+02:00" endTime="2013-02-27T13:15:54.2098457+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7356b7db-8acb-4608-8400-2be569b206e1">
+    </UnitTestResult>
+  </Results>
+</TestRun>

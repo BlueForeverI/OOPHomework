@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="9DBB8A7A-34D5-4B84-847C-D9DE94C0D2F1" ModuleId="1.Points" />
+  <Module PersistentId="5EFAAEC3-E383-4DAE-A813-CD383F6B6F30" ModuleId="1.Points.Tests" />
+  <Module PersistentId="7EE7ABC7-DD01-4AA5-8B58-EFAF099F24BC" ModuleId="2.GenericListProject" />
+  <Module PersistentId="8B7BD269-B75F-411A-BFB0-B6FA4E2237DA" ModuleId="2.GenericList" />
+  <Module PersistentId="8B90441F-2504-4E62-B57C-A860CF327FF7" ModuleId="2.GenericList.Tests" />
+  <Module PersistentId="A290CF97-906B-417F-BD15-ECEE20EA2854" ModuleId="3.Matrix" />
+  <Module PersistentId="790D7CDF-2FA6-4B0F-9CB1-20E6EC0F0F00" ModuleId="VersionAttribute" />
+</Modules>
