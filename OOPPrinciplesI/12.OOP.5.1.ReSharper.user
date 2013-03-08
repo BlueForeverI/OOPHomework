@@ -1,0 +1,271 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="26" />
+      <Item value="public" priority="56" />
+      <Item value="Person`0" priority="2" />
+      <Item value="this" priority="55" />
+      <Item value="name" priority="9" />
+      <Item value="int" priority="19" />
+      <Item value="Student`0" priority="5" />
+      <Item value="base" priority="12" />
+      <Item value="classNumber" priority="0" />
+      <Item value="List" priority="5" />
+      <Item value="Teacher`0" priority="2" />
+      <Item value="null" priority="6" />
+      <Item value="Base64FormattingOptions`0" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="disciplines" priority="2" />
+      <Item value="new" priority="32" />
+      <Item value="List&lt;Discipline&gt;" priority="0" />
+      <Item value="Discipline`0" priority="0" />
+      <Item value="numberOfLectures" priority="1" />
+      <Item value="private" priority="5" />
+      <Item value="Class`0" priority="0" />
+      <Item value="teachers" priority="2" />
+      <Item value="textId" priority="0" />
+      <Item value="List&lt;Teacher&gt;" priority="0" />
+      <Item value="students" priority="4" />
+      <Item value="List&lt;Student&gt;" priority="0" />
+      <Item value="Human`0" priority="2" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="firstName" priority="2" />
+      <Item value="lastName" priority="2" />
+      <Item value="mark" priority="0" />
+      <Item value="grade" priority="0" />
+      <Item value="double" priority="18" />
+      <Item value="Worker`0" priority="2" />
+      <Item value="weekSalary" priority="0" />
+      <Item value="workHoursPerDay" priority="0" />
+      <Item value="return" priority="17" />
+      <Item value="Student" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="sortedByGrade" priority="0" />
+      <Item value="Array`0" priority="0" />
+      <Item value="cw" priority="8" />
+      <Item value="foreach" priority="2" />
+      <Item value="student" priority="2" />
+      <Item value="workers" priority="1" />
+      <Item value="Worker" priority="0" />
+      <Item value="sortedByMoneyPerHour" priority="0" />
+      <Item value="worker" priority="3" />
+      <Item value="Shape`0" priority="5" />
+      <Item value="width" priority="6" />
+      <Item value="height" priority="4" />
+      <Item value="virtual" priority="2" />
+      <Item value="Triangle`0" priority="2" />
+      <Item value="override" priority="5" />
+      <Item value="Rectangle`0" priority="1" />
+      <Item value="Circle`0" priority="3" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="protected" priority="7" />
+      <Item value="Math`0" priority="1" />
+      <Item value="shapes" priority="2" />
+      <Item value="Shape" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="6" />
+      <Item value="Length" priority="2" />
+      <Item value="enum" priority="1" />
+      <Item value="Sex`0" priority="8" />
+      <Item value="static" priority="4" />
+      <Item value="Animal`0" priority="15" />
+      <Item value="age" priority="5" />
+      <Item value="sex" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="Dog`0" priority="2" />
+      <Item value="Frog`0" priority="2" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="Cat`0" priority="4" />
+      <Item value="Sound" priority="2" />
+      <Item value="Kitten`0" priority="1" />
+      <Item value="Tomcat`0" priority="1" />
+      <Item value="animals" priority="3" />
+      <Item value="Animal" priority="0" />
+      <Item value="Male" priority="6" />
+      <Item value="Female" priority="1" />
+      <Item value="animal" priority="0" />
+      <Item value="AnimalSounds" priority="0" />
+      <Item value="sound" priority="0" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="8" />
+      <Item value="break" priority="9" />
+      <Item value="default" priority="0" />
+      <Item value="Dog" priority="4" />
+      <Item value="sum" priority="1" />
+      <Item value="Frog" priority="3" />
+      <Item value="Cat" priority="2" />
+      <Item value="cats" priority="0" />
+      <Item value="frogs" priority="0" />
+      <Item value="ParallelQuery`0" priority="1" />
+      <Item value="IAppDomainSetup`0" priority="0" />
+      <Item value="ICloneable`0" priority="1" />
+      <Item value="CustomerType`0" priority="5" />
+      <Item value="Customer`0" priority="1" />
+      <Item value="type" priority="0" />
+      <Item value="Decimal`0" priority="0" />
+      <Item value="decimal" priority="6" />
+      <Item value="Account`0" priority="3" />
+      <Item value="IDepositable`0" priority="2" />
+      <Item value="IWithdrawable`0" priority="0" />
+      <Item value="customer" priority="1" />
+      <Item value="balance" priority="0" />
+      <Item value="interestRate" priority="0" />
+      <Item value="amount" priority="8" />
+      <Item value="numberOfMonths" priority="12" />
+      <Item value="montsh" priority="0" />
+      <Item value="months" priority="1" />
+      <Item value="else" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.School.Person">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.School.Student">
+      <Item value="ClassNumber" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.School.Teacher">
+      <Item value="Disciplines" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.School.Discipline">
+      <Item value="Name" priority="0" />
+      <Item value="NumberOfExercises" priority="1" />
+      <Item value="NumberOfLectures" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.School.Class">
+      <Item value="TextID" priority="0" />
+      <Item value="Teachers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_2.Humans.Human">
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_2.Humans.Student">
+      <Item value="Mark" priority="0" />
+      <Item value="Grade" priority="2" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_2.Humans.Worker">
+      <Item value="WeekSalary" priority="2" />
+      <Item value="WorkHoursPerDay" priority="2" />
+      <Item value="MoneyPerHour`0" priority="1" />
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_3.Shapes.Shape">
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+      <Item value="CalculateSurface`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_3.Shapes.Triangle">
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_3.Shapes.Rectangle">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_3.Shapes.Circle">
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="PI" priority="0" />
+      <Item value="Pow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_4.Animals.Animal">
+      <Item value="Name" priority="0" />
+      <Item value="Age" priority="1" />
+      <Item value="Sex" priority="0" />
+      <Item value="Sound" priority="0" />
+      <Item value="ProduceSound`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_4.Animals.Dog">
+      <Item value="Sound" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@_4.Animals.Animal">
+      <Item value="AnimalSounds" priority="4" />
+      <Item value="Identify`0" priority="0" />
+      <Item value="CalculateAverageAge`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_4.Animals.Frog">
+      <Item value="Sex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@_4.Animals.Sex">
+      <Item value="Female" priority="1" />
+      <Item value="Male" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Array">
+      <Item value="IndexOf`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.Bank.Customer">
+      <Item value="Name" priority="0" />
+      <Item value="Type" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.Bank.Account">
+      <Item value="Customer" priority="0" />
+      <Item value="Balance" priority="0" />
+      <Item value="InterestRate" priority="1" />
+      <Item value="CalculateInterestAmount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.Bank.DepositAccount">
+      <Item value="Balance" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.Bank.LoanAccount">
+      <Item value="Balance" priority="0" />
+      <Item value="Customer" priority="0" />
+      <Item value="InterestRate" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.Bank.MortgageAccount">
+      <Item value="Balance" priority="0" />
+      <Item value="Customer" priority="0" />
+      <Item value="InterestRate" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@_5.Bank.CustomerType">
+      <Item value="Individual" priority="1" />
+      <Item value="Company" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2326641F-6DBB-4CB9-826C-864F7BAC05AD/f:Person.cs" caret="242" fromTop="11" />
+      <File id="2326641F-6DBB-4CB9-826C-864F7BAC05AD/f:Student.cs" caret="269" fromTop="11" />
+      <File id="2326641F-6DBB-4CB9-826C-864F7BAC05AD/f:Teacher.cs" caret="180" fromTop="9" />
+      <File id="2326641F-6DBB-4CB9-826C-864F7BAC05AD/f:Discipline.cs" caret="559" fromTop="16" />
+      <File id="2326641F-6DBB-4CB9-826C-864F7BAC05AD/f:Class.cs" caret="630" fromTop="17" />
+      <File id="BE39E109-DD6C-4839-9359-66AE11A7242B/f:Human.cs" caret="406" fromTop="15" />
+      <File id="BE39E109-DD6C-4839-9359-66AE11A7242B/f:Student.cs" caret="339" fromTop="13" />
+      <File id="BE39E109-DD6C-4839-9359-66AE11A7242B/f:Worker.cs" caret="619" fromTop="21" />
+      <File id="BE39E109-DD6C-4839-9359-66AE11A7242B/f:HumansTest.cs" caret="248" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6.1\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

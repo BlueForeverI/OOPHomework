@@ -1,0 +1,8 @@
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\12.OOP\2.Humans\bin\Debug\2.Humans.exe
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\12.OOP\2.Humans\bin\Debug\2.Humans.pdb
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\12.OOP\2.Humans\obj\x86\Debug\2.Humans.exe
+E:\Documents\Telerik-School-Academy\Meeting-22-C#-.NET-Development\Homework\12.OOP\2.Humans\obj\x86\Debug\2.Humans.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesI\2.Humans\bin\Debug\2.Humans.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesI\2.Humans\bin\Debug\2.Humans.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesI\2.Humans\obj\x86\Debug\2.Humans.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesI\2.Humans\obj\x86\Debug\2.Humans.pdb

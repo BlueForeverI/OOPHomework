@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="2326641F-6DBB-4CB9-826C-864F7BAC05AD" ModuleId="1.School" />
+  <Module PersistentId="BE39E109-DD6C-4839-9359-66AE11A7242B" ModuleId="2.Humans" />
+  <Module PersistentId="93191488-0B36-41A0-BDD5-0DF87BB6801D" ModuleId="3.Shapes" />
+  <Module PersistentId="4AFACC7B-1A06-4470-B5E5-21421772E8EC" ModuleId="4.Animals" />
+  <Module PersistentId="A2D17C84-0760-4770-982A-7A597916F745" ModuleId="5.Bank" />
+</Modules>
