@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\1.StringBuilderExtension\bin\Debug\1.StringBuilderExtension.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\1.StringBuilderExtension\bin\Debug\1.StringBuilderExtension.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\1.StringBuilderExtension\obj\x86\Debug\1.StringBuilderExtension.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\1.StringBuilderExtension\obj\x86\Debug\1.StringBuilderExtension.pdb

@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\6.PrintDivisibleBy7And3\bin\Debug\6.PrintDivisibleBy7And3.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\6.PrintDivisibleBy7And3\bin\Debug\6.PrintDivisibleBy7And3.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\6.PrintDivisibleBy7And3\obj\x86\Debug\6.PrintDivisibleBy7And3.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\6.PrintDivisibleBy7And3\obj\x86\Debug\6.PrintDivisibleBy7And3.pdb

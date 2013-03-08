@@ -1,0 +1,7 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\bin\Debug\4.FindStudentsAgeBetween18And24.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\bin\Debug\4.FindStudentsAgeBetween18And24.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\bin\Debug\StudentData.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\bin\Debug\StudentData.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\obj\x86\Debug\4.FindStudentsAgeBetween18And24.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\obj\x86\Debug\4.FindStudentsAgeBetween18And24.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\4.FindStudentsAgeBetween18And24\obj\x86\Debug\4.FindStudentsAgeBetween18And24.pdb

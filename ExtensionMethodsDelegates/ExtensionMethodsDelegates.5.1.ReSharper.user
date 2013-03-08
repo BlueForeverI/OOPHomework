@@ -1,0 +1,192 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="12" />
+      <Item value="static" priority="4" />
+      <Item value="string" priority="3" />
+      <Item value="this" priority="27" />
+      <Item value="StringBuilder`0" priority="2" />
+      <Item value="int" priority="4" />
+      <Item value="return" priority="2" />
+      <Item value="new" priority="12" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="sb" priority="2" />
+      <Item value="index" priority="3" />
+      <Item value="length" priority="2" />
+      <Item value="if" priority="5" />
+      <Item value="thr" priority="0" />
+      <Item value="ArgumentException`0" priority="0" />
+      <Item value="content" priority="2" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="cw" priority="5" />
+      <Item value="Student`0" priority="3" />
+      <Item value="Student" priority="0" />
+      <Item value="StudentData" priority="2" />
+      <Item value="override" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Timers" priority="2" />
+      <Item value="Timer`0" priority="8" />
+      <Item value="delegate" priority="2" />
+      <Item value="Void`0" priority="0" />
+      <Item value="private" priority="8" />
+      <Item value="TimerCallback`0" priority="3" />
+      <Item value="t" priority="2" />
+      <Item value="void" priority="11" />
+      <Item value="Timer" priority="3" />
+      <Item value="ElapsedEventHandler" priority="0" />
+      <Item value="timer" priority="7" />
+      <Item value="true" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="Threading" priority="0" />
+      <Item value="method" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="TimeSpan`0" priority="2" />
+      <Item value="TimerCallback" priority="2" />
+      <Item value="object" priority="0" />
+      <Item value="Delegate`0" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="ConsoleKeyInfo`0" priority="0" />
+      <Item value="ConsoleKey`0" priority="1" />
+      <Item value="event" priority="2" />
+      <Item value="TimerStopped`0" priority="1" />
+      <Item value="TimerStarted`0" priority="0" />
+      <Item value="executed" priority="0" />
+      <Item value="stopped" priority="1" />
+      <Item value="EventArgs`0" priority="12" />
+      <Item value="Started" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="OnStopped`0" priority="0" />
+      <Item value="Executed`0" priority="1" />
+      <Item value="Started`0" priority="0" />
+      <Item value="Stopped`0" priority="0" />
+      <Item value="OnExecuted`0" priority="0" />
+      <Item value="char" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="1" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StudentData.Student">
+      <Item value="Students" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StudentData.Student">
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+      <Item value="Age" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_7.ExecutingTimer.Timer">
+      <Item value="callback" priority="4" />
+      <Item value="ticks" priority="1" />
+      <Item value="internalTimer" priority="6" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="Elapsed" priority="0" />
+      <Item value="Start`0" priority="1" />
+      <Item value="Stop`0" priority="0" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="2" />
+      <Item value="Zero" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Read`0" priority="0" />
+      <Item value="ReadKey`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ConsoleKey">
+      <Item value="X" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ConsoleKeyInfo">
+      <Item value="Key" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_8.TimerWithEvents.Timer">
+      <Item value="Start`0" priority="1" />
+      <Item value="Started" priority="4" />
+      <Item value="Executed" priority="4" />
+      <Item value="Stopped" priority="3" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.EventArgs">
+      <Item value="Empty" priority="3" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E4E2FC25-EFA5-4E83-8742-C3480A068902/f:IEnumerableExtensions.cs" caret="4142" fromTop="14" />
+      <File id="206A511E-8917-4EE9-8A0B-EFC7D34551AB/f:StringBuilderExtension.cs" caret="800" fromTop="9" />
+      <File id="7FF065E4-67D2-4CBB-A307-34340FED18DD/f:FindStudentsFirstNamesBefore.cs" caret="511" fromTop="16" />
+      <File id="6C45EBD6-9BB6-4185-907C-F7CCF80FF06A/f:FindStudentsAgeBetween18And24.cs" caret="525" fromTop="16" />
+      <File id="201C759D-5CA2-4CF1-B2AB-04A5CC005CDA/f:PrintDivisibleBy7And3.cs" caret="861" fromTop="24" />
+      <File id="54F0A8C1-016E-4437-B6DB-0EDD5A4C5D10/f:SortStudents.cs" caret="880" fromTop="23" />
+      <File id="D8390EB2-D449-4432-860B-A8945A83007B/f:Student.cs" caret="574" fromTop="15" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:TimerTest.cs" caret="486" fromTop="19" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="1029" fromTop="31" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:TimerTest.cs" caret="427" fromTop="18" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="721" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="883" fromTop="24" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="608" fromTop="9" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="1011" fromTop="25" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:TimerTest.cs" caret="617" fromTop="21" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="243" fromTop="10" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="968" fromTop="30" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="700" fromTop="23" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="538" fromTop="20" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="365" fromTop="15" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:Timer.cs" caret="122" fromTop="6" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:TimerTest.cs" caret="719" fromTop="27" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:TimerTest.cs" caret="378" fromTop="16" />
+      <File id="32DEA06E-421C-478D-98EE-ED70B15427E2/f:TimerTest.cs" caret="495" fromTop="19" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="0" fromTop="0" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="386" fromTop="10" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="674" fromTop="11" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="281" fromTop="5" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="1152" fromTop="28" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="1379" fromTop="30" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="2018" fromTop="28" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:TimerTest.cs" caret="676" fromTop="16" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:TimerTest.cs" caret="924" fromTop="26" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="1754" fromTop="25" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:TimerTest.cs" caret="562" fromTop="22" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:TimerTest.cs" caret="324" fromTop="13" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:TimerTest.cs" caret="427" fromTop="9" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="777" fromTop="20" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="999" fromTop="29" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="1230" fromTop="23" />
+      <File id="D4518C07-C1FF-44B9-B611-0C5C7B8046CE/f:Timer.cs" caret="1474" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

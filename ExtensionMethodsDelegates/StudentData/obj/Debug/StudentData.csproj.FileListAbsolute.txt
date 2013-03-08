@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\StudentData\bin\Debug\StudentData.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\StudentData\bin\Debug\StudentData.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\StudentData\obj\Debug\StudentData.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\StudentData\obj\Debug\StudentData.pdb

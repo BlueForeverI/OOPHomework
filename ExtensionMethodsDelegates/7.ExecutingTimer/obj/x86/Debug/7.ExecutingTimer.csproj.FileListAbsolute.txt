@@ -1,0 +1,5 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\7.ExecutingTimer\bin\Debug\7.ExecutingTimer.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\7.ExecutingTimer\bin\Debug\7.ExecutingTimer.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\7.ExecutingTimer\obj\x86\Debug\7.ExecutingTimer.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\7.ExecutingTimer\obj\x86\Debug\7.ExecutingTimer.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\7.ExecutingTimer\obj\x86\Debug\7.ExecutingTimer.csprojResolveAssemblyReference.cache

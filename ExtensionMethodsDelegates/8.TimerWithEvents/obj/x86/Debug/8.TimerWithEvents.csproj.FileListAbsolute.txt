@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\8.TimerWithEvents\bin\Debug\8.TimerWithEvents.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\8.TimerWithEvents\bin\Debug\8.TimerWithEvents.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\8.TimerWithEvents\obj\x86\Debug\8.TimerWithEvents.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\8.TimerWithEvents\obj\x86\Debug\8.TimerWithEvents.pdb

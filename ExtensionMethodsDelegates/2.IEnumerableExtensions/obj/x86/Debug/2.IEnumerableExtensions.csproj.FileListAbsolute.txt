@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\2.IEnumerableExtensions\bin\Debug\2.IEnumerableExtensions.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\2.IEnumerableExtensions\bin\Debug\2.IEnumerableExtensions.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\2.IEnumerableExtensions\obj\x86\Debug\2.IEnumerableExtensions.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\2.IEnumerableExtensions\obj\x86\Debug\2.IEnumerableExtensions.pdb

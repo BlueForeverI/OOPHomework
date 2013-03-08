@@ -1,0 +1,7 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\bin\Debug\3.FindStudentsFirstNamesBefore.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\bin\Debug\3.FindStudentsFirstNamesBefore.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\bin\Debug\StudentData.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\bin\Debug\StudentData.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\obj\x86\Debug\3.FindStudentsFirstNamesBefore.csprojResolveAssemblyReference.cache
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\obj\x86\Debug\3.FindStudentsFirstNamesBefore.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExtensionMethodsDelegates\3.FindStudentsFirstNamesBefore\obj\x86\Debug\3.FindStudentsFirstNamesBefore.pdb

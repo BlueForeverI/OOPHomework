@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="206A511E-8917-4EE9-8A0B-EFC7D34551AB" ModuleId="1.StringBuilderExtension" />
+  <Module PersistentId="E4E2FC25-EFA5-4E83-8742-C3480A068902" ModuleId="2.IEnumerableExtensions" />
+  <Module PersistentId="D8390EB2-D449-4432-860B-A8945A83007B" ModuleId="StudentData" />
+  <Module PersistentId="7FF065E4-67D2-4CBB-A307-34340FED18DD" ModuleId="3.FindStudentsFirstNamesBefore" />
+  <Module PersistentId="6C45EBD6-9BB6-4185-907C-F7CCF80FF06A" ModuleId="4.FindStudentsAgeBetween18And24" />
+  <Module PersistentId="54F0A8C1-016E-4437-B6DB-0EDD5A4C5D10" ModuleId="5.SortStudents" />
+  <Module PersistentId="201C759D-5CA2-4CF1-B2AB-04A5CC005CDA" ModuleId="6.PrintDivisibleBy7And3" />
+  <Module PersistentId="32DEA06E-421C-478D-98EE-ED70B15427E2" ModuleId="7.ExecutingTimer" />
+  <Module PersistentId="D4518C07-C1FF-44B9-B611-0C5C7B8046CE" ModuleId="8.TimerWithEvents" />
+</Modules>
