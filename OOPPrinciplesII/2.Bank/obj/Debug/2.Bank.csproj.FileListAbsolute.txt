@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\2.Bank\bin\Debug\2.Bank.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\2.Bank\bin\Debug\2.Bank.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\2.Bank\obj\Debug\2.Bank.dll
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\2.Bank\obj\Debug\2.Bank.pdb

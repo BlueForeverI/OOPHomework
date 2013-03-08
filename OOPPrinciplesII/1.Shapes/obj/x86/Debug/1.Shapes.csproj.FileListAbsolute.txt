@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\1.Shapes\bin\Debug\1.Shapes.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\1.Shapes\bin\Debug\1.Shapes.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\1.Shapes\obj\x86\Debug\1.Shapes.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\OOPPrinciplesII\1.Shapes\obj\x86\Debug\1.Shapes.pdb

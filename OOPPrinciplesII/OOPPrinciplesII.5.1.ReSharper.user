@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Triangle.cs" caret="164" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Shape.cs" caret="703" fromTop="29" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:ShapesTest.cs" caret="609" fromTop="23" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Rectangle.cs" caret="165" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Circle.cs" caret="347" fromTop="15" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:Customer.cs" caret="340" fromTop="17" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:IDepositable.cs" caret="158" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:IWithdrawable.cs" caret="299" fromTop="14" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:DepositAccount.cs" caret="118" fromTop="7" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:LoanAccount.cs" caret="158" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:Account.cs" caret="967" fromTop="28" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:MortgageAccount.cs" caret="225" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Shape.cs" caret="197" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Circle.cs" caret="182" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Shape.cs" caret="703" fromTop="23" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Rectangle.cs" caret="165" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:Triangle.cs" caret="164" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:ShapesTest.cs" caret="179" fromTop="8" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:ShapesTest.cs" caret="346" fromTop="14" />
+      <File id="CD17F4BB-EC64-4F47-AAE7-EF293FBBDF4A/f:ShapesTest.cs" caret="609" fromTop="23" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:Account.cs" caret="202" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:Customer.cs" caret="141" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:Customer.cs" caret="340" fromTop="17" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:DepositAccount.cs" caret="242" fromTop="9" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:IDepositable.cs" caret="158" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:IWithdrawable.cs" caret="193" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:LoanAccount.cs" caret="158" fromTop="8" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:MortgageAccount.cs" caret="225" fromTop="9" />
+      <File id="B2399629-A4CA-4053-9FC5-CEE904D461D1/f:Account.cs" caret="967" fromTop="28" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
