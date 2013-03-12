@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Student", "1.Student\1.Student.csproj", "{5C4F9E7A-D4AB-4042-81F8-60AF179C56E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Person", "4.Person\4.Person.csproj", "{E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.BinarySearchTree", "5.BinarySearchTree\5.BinarySearchTree.csproj", "{521C676F-B295-4102-AB6C-6E1A09B4E9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4F9E7A-D4AB-4042-81F8-60AF179C56E9}.Debug|x86.ActiveCfg = Debug|x86
+		{5C4F9E7A-D4AB-4042-81F8-60AF179C56E9}.Debug|x86.Build.0 = Debug|x86
+		{5C4F9E7A-D4AB-4042-81F8-60AF179C56E9}.Release|x86.ActiveCfg = Release|x86
+		{5C4F9E7A-D4AB-4042-81F8-60AF179C56E9}.Release|x86.Build.0 = Release|x86
+		{E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0}.Debug|x86.ActiveCfg = Debug|x86
+		{E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0}.Debug|x86.Build.0 = Debug|x86
+		{E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0}.Release|x86.ActiveCfg = Release|x86
+		{E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0}.Release|x86.Build.0 = Release|x86
+		{521C676F-B295-4102-AB6C-6E1A09B4E9AD}.Debug|x86.ActiveCfg = Debug|x86
+		{521C676F-B295-4102-AB6C-6E1A09B4E9AD}.Debug|x86.Build.0 = Debug|x86
+		{521C676F-B295-4102-AB6C-6E1A09B4E9AD}.Release|x86.ActiveCfg = Release|x86
+		{521C676F-B295-4102-AB6C-6E1A09B4E9AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

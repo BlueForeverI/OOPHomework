@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\CommonTypeSystem\4.Person\bin\Debug\4.Person.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\CommonTypeSystem\4.Person\bin\Debug\4.Person.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\CommonTypeSystem\4.Person\obj\x86\Debug\4.Person.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\CommonTypeSystem\4.Person\obj\x86\Debug\4.Person.pdb

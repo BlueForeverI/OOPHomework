@@ -1,0 +1,244 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="42" />
+      <Item value="string" priority="22" />
+      <Item value="enum" priority="2" />
+      <Item value="Specialty`0" priority="2" />
+      <Item value="Faculty`0" priority="3" />
+      <Item value="UnicodeEncoding`0" priority="1" />
+      <Item value="Student`0" priority="9" />
+      <Item value="specialty" priority="1" />
+      <Item value="null" priority="37" />
+      <Item value="faculty" priority="1" />
+      <Item value="University`0" priority="1" />
+      <Item value="this" priority="84" />
+      <Item value="firstName" priority="0" />
+      <Item value="middleName" priority="0" />
+      <Item value="lastName" priority="0" />
+      <Item value="ssn" priority="0" />
+      <Item value="permananeAddress" priority="0" />
+      <Item value="mobilePhone" priority="0" />
+      <Item value="email" priority="0" />
+      <Item value="course" priority="0" />
+      <Item value="university" priority="0" />
+      <Item value="override" priority="3" />
+      <Item value="student" priority="12" />
+      <Item value="obj" priority="0" />
+      <Item value="if" priority="33" />
+      <Item value="return" priority="32" />
+      <Item value="true" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="StringBuilder`0" priority="2" />
+      <Item value="new" priority="22" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="sb" priority="18" />
+      <Item value="bool" priority="4" />
+      <Item value="static" priority="7" />
+      <Item value="operator" priority="1" />
+      <Item value="student1" priority="1" />
+      <Item value="student2" priority="1" />
+      <Item value="ICloneable`0" priority="2" />
+      <Item value="IComparable" priority="0" />
+      <Item value="int" priority="7" />
+      <Item value="other" priority="4" />
+      <Item value="result" priority="2" />
+      <Item value="fullName" priority="0" />
+      <Item value="otherFullName" priority="1" />
+      <Item value="else" priority="17" />
+      <Item value="IclO" priority="0" />
+      <Item value="Student" priority="0" />
+      <Item value="ComputerScience" priority="0" />
+      <Item value="SofiaUniversity" priority="0" />
+      <Item value="firstStudent" priority="3" />
+      <Item value="cw" priority="17" />
+      <Item value="cloned" priority="4" />
+      <Item value="Person`0" priority="2" />
+      <Item value="name" priority="0" />
+      <Item value="age" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="Person" priority="1" />
+      <Item value="firstPerson" priority="0" />
+      <Item value="secondPerson" priority="0" />
+      <Item value="T`0" priority="18" />
+      <Item value="TreeNode" priority="28" />
+      <Item value="void" priority="4" />
+      <Item value="value" priority="17" />
+      <Item value="element" priority="12" />
+      <Item value="where" priority="0" />
+      <Item value="IComparable`0" priority="0" />
+      <Item value="TreeNode&lt;T&gt;" priority="9" />
+      <Item value="private" priority="8" />
+      <Item value="while" priority="0" />
+      <Item value="nextNode" priority="5" />
+      <Item value="TreeNode&lt;int&gt;" priority="2" />
+      <Item value="BinarySearchTree" priority="6" />
+      <Item value="tree" priority="17" />
+      <Item value="BinarySearchTree&lt;int&gt;" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="ref" priority="4" />
+      <Item value="root" priority="8" />
+      <Item value="var" priority="9" />
+      <Item value="as" priority="1" />
+      <Item value="node" priority="77" />
+      <Item value="Find`0" priority="3" />
+      <Item value="Delete`0" priority="8" />
+      <Item value="right" priority="1" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="p" priority="4" />
+      <Item value="q" priority="3" />
+      <Item value="long" priority="0" />
+      <Item value="left" priority="0" />
+      <Item value="Left" priority="0" />
+      <Item value="TreeNode`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+      <Item value="node2" priority="3" />
+      <Item value="node1" priority="2" />
+      <Item value="Equals`0" priority="2" />
+      <Item value="tree2" priority="9" />
+      <Item value="GetHashCode`0" priority="2" />
+      <Item value="Root" priority="0" />
+      <Item value="tree1" priority="0" />
+      <Item value="BinarySearchTree&lt;T&gt;" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@_1.Student.Specialty">
+      <Item value="SoftwareEngineering" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@_1.Student.Faculty">
+      <Item value="MathsAndInformatics" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@_1.Student.University">
+      <Item value="SofiaUniversity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.Student.Student">
+      <Item value="Faculty" priority="6" />
+      <Item value="MiddleName" priority="8" />
+      <Item value="LastName" priority="7" />
+      <Item value="SSN" priority="8" />
+      <Item value="PermanentAddress" priority="5" />
+      <Item value="MobilePhone" priority="6" />
+      <Item value="Email" priority="5" />
+      <Item value="Specialty" priority="5" />
+      <Item value="Course" priority="5" />
+      <Item value="University" priority="5" />
+      <Item value="FirstName" priority="8" />
+      <Item value="Equals`0" priority="1" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="11" />
+      <Item value="AppendLine`0" priority="2" />
+      <Item value="ToString`0" priority="2" />
+      <Item value="AppendFormat`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.Student.Specialty">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="GetHashCode`0" priority="1" />
+      <Item value="CompareTo`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="GetHashCode`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_4.Person.Person">
+      <Item value="Age" priority="3" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.BinarySearchTree.TreeNode`1">
+      <Item value="Value" priority="13" />
+      <Item value="Left" priority="37" />
+      <Item value="Right" priority="32" />
+      <Item value="GetHashCode`0" priority="1" />
+      <Item value="Clone`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.BinarySearchTree.BinarySearchTree`1">
+      <Item value="root" priority="11" />
+      <Item value="Add`0" priority="8" />
+      <Item value="Find`0" priority="4" />
+      <Item value="Delete`0" priority="1" />
+      <Item value="Root" priority="3" />
+      <Item value="Equals`0" priority="1" />
+      <Item value="Clone`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.BinarySearchTree.TreeNode">
+      <Item value="Left" priority="7" />
+      <Item value="Right" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_5.BinarySearchTree.BinarySearchTree">
+      <Item value="root" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5C4F9E7A-D4AB-4042-81F8-60AF179C56E9/f:StudentTest.cs" caret="1478" fromTop="26" />
+      <File id="5C4F9E7A-D4AB-4042-81F8-60AF179C56E9/f:Student.cs" caret="7609" fromTop="26" />
+      <File id="E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0/f:PersonTest.cs" caret="404" fromTop="16" />
+      <File id="E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0/f:Person.cs" caret="526" fromTop="11" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:TreeTest.cs" caret="1420" fromTop="19" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:TreeNode.cs" caret="1206" fromTop="44" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="9343" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1030" fromTop="8" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1498" fromTop="20" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1288" fromTop="9" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1807" fromTop="22" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2198" fromTop="24" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2380" fromTop="29" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2058" fromTop="23" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2737" fromTop="16" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3811" fromTop="14" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2905" fromTop="15" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3074" fromTop="12" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3232" fromTop="18" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3443" fromTop="23" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4189" fromTop="17" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4409" fromTop="10" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4615" fromTop="15" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4946" fromTop="20" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="5355" fromTop="15" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="5671" fromTop="23" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="5996" fromTop="22" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="6385" fromTop="15" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="6605" fromTop="20" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="7108" fromTop="18" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="7400" fromTop="15" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="7696" fromTop="23" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="8044" fromTop="16" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="8451" fromTop="18" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="8696" fromTop="25" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="8889" fromTop="29" />
+      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="9224" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
