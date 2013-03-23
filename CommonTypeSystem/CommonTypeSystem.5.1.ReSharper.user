@@ -3,13 +3,14 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="42" />
-      <Item value="string" priority="22" />
+      <Item value="public" priority="50" />
+      <Item value="string" priority="23" />
       <Item value="enum" priority="2" />
       <Item value="Specialty`0" priority="2" />
       <Item value="Faculty`0" priority="3" />
@@ -19,7 +20,7 @@
       <Item value="null" priority="37" />
       <Item value="faculty" priority="1" />
       <Item value="University`0" priority="1" />
-      <Item value="this" priority="84" />
+      <Item value="this" priority="94" />
       <Item value="firstName" priority="0" />
       <Item value="middleName" priority="0" />
       <Item value="lastName" priority="0" />
@@ -29,25 +30,25 @@
       <Item value="email" priority="0" />
       <Item value="course" priority="0" />
       <Item value="university" priority="0" />
-      <Item value="override" priority="3" />
+      <Item value="override" priority="8" />
       <Item value="student" priority="12" />
-      <Item value="obj" priority="0" />
-      <Item value="if" priority="33" />
-      <Item value="return" priority="32" />
-      <Item value="true" priority="2" />
-      <Item value="false" priority="0" />
-      <Item value="StringBuilder`0" priority="2" />
-      <Item value="new" priority="22" />
-      <Item value="StringBuilder" priority="2" />
-      <Item value="sb" priority="18" />
-      <Item value="bool" priority="4" />
-      <Item value="static" priority="7" />
-      <Item value="operator" priority="1" />
+      <Item value="obj" priority="1" />
+      <Item value="if" priority="36" />
+      <Item value="return" priority="38" />
+      <Item value="true" priority="5" />
+      <Item value="false" priority="1" />
+      <Item value="StringBuilder`0" priority="3" />
+      <Item value="new" priority="26" />
+      <Item value="StringBuilder" priority="3" />
+      <Item value="sb" priority="20" />
+      <Item value="bool" priority="6" />
+      <Item value="static" priority="8" />
+      <Item value="operator" priority="2" />
       <Item value="student1" priority="1" />
       <Item value="student2" priority="1" />
       <Item value="ICloneable`0" priority="2" />
       <Item value="IComparable" priority="0" />
-      <Item value="int" priority="7" />
+      <Item value="int" priority="10" />
       <Item value="other" priority="4" />
       <Item value="result" priority="2" />
       <Item value="fullName" priority="0" />
@@ -58,7 +59,7 @@
       <Item value="ComputerScience" priority="0" />
       <Item value="SofiaUniversity" priority="0" />
       <Item value="firstStudent" priority="3" />
-      <Item value="cw" priority="17" />
+      <Item value="cw" priority="21" />
       <Item value="cloned" priority="4" />
       <Item value="Person`0" priority="2" />
       <Item value="name" priority="0" />
@@ -70,7 +71,7 @@
       <Item value="T`0" priority="18" />
       <Item value="TreeNode" priority="28" />
       <Item value="void" priority="4" />
-      <Item value="value" priority="17" />
+      <Item value="value" priority="20" />
       <Item value="element" priority="12" />
       <Item value="where" priority="0" />
       <Item value="IComparable`0" priority="0" />
@@ -85,7 +86,7 @@
       <Item value="Add`0" priority="1" />
       <Item value="ref" priority="4" />
       <Item value="root" priority="8" />
-      <Item value="var" priority="9" />
+      <Item value="var" priority="13" />
       <Item value="as" priority="1" />
       <Item value="node" priority="77" />
       <Item value="Find`0" priority="3" />
@@ -107,6 +108,29 @@
       <Item value="Root" priority="0" />
       <Item value="tree1" priority="0" />
       <Item value="BinarySearchTree&lt;T&gt;" priority="0" />
+      <Item value="ulong" priority="2" />
+      <Item value="BitArray64`0" priority="5" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="char" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="str" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="3" />
+      <Item value="binaryValue" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="index" priority="3" />
+      <Item value="throw" priority="0" />
+      <Item value="ArgumentOutOfRangeException" priority="0" />
+      <Item value="yield return" priority="0" />
+      <Item value="bit" priority="2" />
+      <Item value="integerValue" priority="0" />
+      <Item value="otherObject" priority="1" />
+      <Item value="array1" priority="0" />
+      <Item value="array2" priority="0" />
+      <Item value="BitArray64" priority="0" />
+      <Item value="bitArray" priority="2" />
+      <Item value="number" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@_1.Student.Specialty">
       <Item value="SoftwareEngineering" priority="0" />
@@ -135,17 +159,18 @@
       <Item value="CompareTo`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Text.StringBuilder">
-      <Item value="Append`0" priority="11" />
+      <Item value="Append`0" priority="12" />
       <Item value="AppendLine`0" priority="2" />
-      <Item value="ToString`0" priority="2" />
+      <Item value="ToString`0" priority="3" />
       <Item value="AppendFormat`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:_1.Student.Specialty">
       <Item value="ToString`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
-      <Item value="GetHashCode`0" priority="1" />
+      <Item value="GetHashCode`0" priority="2" />
       <Item value="CompareTo`0" priority="3" />
+      <Item value="PadLeft`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Int32">
       <Item value="GetHashCode`0" priority="1" />
@@ -159,6 +184,7 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
       <Item value="Format`0" priority="0" />
+      <Item value="Join`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:_5.BinarySearchTree.TreeNode`1">
       <Item value="Value" priority="13" />
@@ -186,6 +212,14 @@
     <ItemStatistics item="Qualified:T">
       <Item value="GetHashCode`0" priority="0" />
     </ItemStatistics>
+    <ItemStatistics item="Qualified:_6.BitArray64.BitArray64">
+      <Item value="Bits" priority="6" />
+      <Item value="ToString`0" priority="4" />
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
   </CompletionStatisticsManager>
   <RecentFiles>
     <RecentFiles>
@@ -196,21 +230,10 @@
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:TreeTest.cs" caret="1420" fromTop="19" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:TreeNode.cs" caret="1206" fromTop="44" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="9343" fromTop="11" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="2241" fromTop="7" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64Test.cs" caret="584" fromTop="21" />
     </RecentFiles>
     <RecentEdits>
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1030" fromTop="8" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1498" fromTop="20" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1288" fromTop="9" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="1807" fromTop="22" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2198" fromTop="24" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2380" fromTop="29" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2058" fromTop="23" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2737" fromTop="16" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3811" fromTop="14" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="2905" fromTop="15" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3074" fromTop="12" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3232" fromTop="18" />
-      <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="3443" fromTop="23" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4189" fromTop="17" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4409" fromTop="10" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="4615" fromTop="15" />
@@ -228,6 +251,19 @@
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="8696" fromTop="25" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="8889" fromTop="29" />
       <File id="521C676F-B295-4102-AB6C-6E1A09B4E9AD/f:BinarySearchTree.cs" caret="9224" fromTop="20" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64Test.cs" caret="0" fromTop="0" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64Test.cs" caret="656" fromTop="12" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="458" fromTop="13" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="1411" fromTop="30" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="1661" fromTop="20" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="2051" fromTop="22" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="2822" fromTop="26" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="334" fromTop="4" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="812" fromTop="11" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64.cs" caret="2241" fromTop="25" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64Test.cs" caret="349" fromTop="13" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64Test.cs" caret="362" fromTop="15" />
+      <File id="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1/f:BitArray64Test.cs" caret="584" fromTop="21" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

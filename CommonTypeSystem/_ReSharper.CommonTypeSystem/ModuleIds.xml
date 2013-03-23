@@ -1,6 +1,6 @@
 <Modules>
   <Module PersistentId="5C4F9E7A-D4AB-4042-81F8-60AF179C56E9" ModuleId="1.Student" />
   <Module PersistentId="E18BA7F9-BBCC-4FCD-8DA2-2A83B4857CF0" ModuleId="4.Person" />
-  <Module PersistentId="34FECEBE-C7E7-4795-875F-39802A7039E2" ModuleId="BinarySearchTree" />
   <Module PersistentId="521C676F-B295-4102-AB6C-6E1A09B4E9AD" ModuleId="5.BinarySearchTree" />
+  <Module PersistentId="C55689D6-3B27-49E9-8FB6-9FE2B975D9D1" ModuleId="6.BitArray64" />
 </Modules>
