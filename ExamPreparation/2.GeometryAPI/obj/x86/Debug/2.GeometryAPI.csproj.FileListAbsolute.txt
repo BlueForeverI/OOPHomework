@@ -1,0 +1,4 @@
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExamPreparation\2.GeometryAPI\bin\Debug\2.GeometryAPI.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExamPreparation\2.GeometryAPI\bin\Debug\2.GeometryAPI.pdb
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExamPreparation\2.GeometryAPI\obj\x86\Debug\2.GeometryAPI.exe
+E:\Documents\Telerik-Software-Academy\OOP\OOPHomework\ExamPreparation\2.GeometryAPI\obj\x86\Debug\2.GeometryAPI.pdb

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2C0C4C60-A722-4FDD-96A6-8A1E630E6980" ModuleId="1.DocumentSystem" />
+  <Module PersistentId="BD699BAA-EA55-42F6-89CA-C93EDD3E269D" ModuleId="2.GeometryAPI" />
+</Modules>

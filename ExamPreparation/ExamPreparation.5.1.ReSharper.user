@@ -1,0 +1,327 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IDocument`0" priority="6" />
+      <Item value="private" priority="10" />
+      <Item value="string" priority="26" />
+      <Item value="return" priority="12" />
+      <Item value="this" priority="71" />
+      <Item value="if" priority="18" />
+      <Item value="value" priority="28" />
+      <Item value="throw" priority="3" />
+      <Item value="new" priority="26" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="public" priority="24" />
+      <Item value="TextDocument`0" priority="2" />
+      <Item value="name" priority="11" />
+      <Item value="content" priority="5" />
+      <Item value="charset" priority="0" />
+      <Item value="int" priority="20" />
+      <Item value="BinaryDocument`0" priority="6" />
+      <Item value="size" priority="1" />
+      <Item value="PdfDocument`0" priority="4" />
+      <Item value="base" priority="18" />
+      <Item value="numberOfPages" priority="0" />
+      <Item value="numberOfCharacters" priority="0" />
+      <Item value="numberOfRows" priority="0" />
+      <Item value="numberOfColumns" priority="0" />
+      <Item value="version" priority="2" />
+      <Item value="OfficeDocument`0" priority="2" />
+      <Item value="length" priority="0" />
+      <Item value="MultimediaDocument`0" priority="1" />
+      <Item value="sampleRate" priority="0" />
+      <Item value="frameRate" priority="0" />
+      <Item value="IEncryptable`0" priority="8" />
+      <Item value="IEditable`0" priority="3" />
+      <Item value="true" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="foreach" priority="4" />
+      <Item value="bool" priority="1" />
+      <Item value="attribute" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="keyValuePair" priority="2" />
+      <Item value="Length" priority="0" />
+      <Item value="key" priority="17" />
+      <Item value="hasName" priority="1" />
+      <Item value="cw" priority="18" />
+      <Item value="else" priority="9" />
+      <Item value="switch" priority="2" />
+      <Item value="case" priority="12" />
+      <Item value="break" priority="12" />
+      <Item value="default" priority="1" />
+      <Item value="Exception" priority="2" />
+      <Item value="out" priority="2" />
+      <Item value="output" priority="15" />
+      <Item value="KeyValuePair&lt;string,object&gt;" priority="12" />
+      <Item value="override" priority="28" />
+      <Item value="void" priority="0" />
+      <Item value="thr" priority="1" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="newContent" priority="1" />
+      <Item value="protected" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="List" priority="1" />
+      <Item value="List&lt;IDocument&gt;" priority="0" />
+      <Item value="document" priority="10" />
+      <Item value="TextDocument" priority="0" />
+      <Item value="documents" priority="5" />
+      <Item value="ApplyAttributes`0" priority="0" />
+      <Item value="attributes" priority="0" />
+      <Item value="WordDocument`0" priority="1" />
+      <Item value="ExcelDocument`0" priority="1" />
+      <Item value="AudioDocument`0" priority="1" />
+      <Item value="VideoDocument`0" priority="1" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="sb" priority="6" />
+      <Item value="var" priority="3" />
+      <Item value="KeyValuePair" priority="0" />
+      <Item value="properties" priority="1" />
+      <Item value="pair" priority="4" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="d" priority="2" />
+      <Item value="doc" priority="3" />
+      <Item value="is" priority="8" />
+      <Item value="as" priority="11" />
+      <Item value="p" priority="0" />
+      <Item value="p2" priority="0" />
+      <Item value="type" priority="0" />
+      <Item value="virtual" priority="2" />
+      <Item value="class" priority="1" />
+      <Item value="Figure`0" priority="2" />
+      <Item value="IFlat`0" priority="5" />
+      <Item value="ILengthMeasurable`0" priority="0" />
+      <Item value="IAreaMeasurable`0" priority="5" />
+      <Item value="Vector3D`0" priority="11" />
+      <Item value="Circle`0" priority="1" />
+      <Item value="double" priority="12" />
+      <Item value="Vector3D" priority="0" />
+      <Item value="centerX" priority="0" />
+      <Item value="centerY" priority="0" />
+      <Item value="centerZ" priority="0" />
+      <Item value="radius" priority="3" />
+      <Item value="center" priority="4" />
+      <Item value="Math`0" priority="3" />
+      <Item value="splitFigString" priority="5" />
+      <Item value="currentFigure" priority="15" />
+      <Item value="IVolumeMeasurable`0" priority="4" />
+      <Item value="Cylinder`0" priority="1" />
+      <Item value="bottomCenter" priority="3" />
+      <Item value="topCenter" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.TextDocument">
+      <Item value="name" priority="1" />
+      <Item value="Name" priority="3" />
+      <Item value="Content" priority="3" />
+      <Item value="Charset" priority="2" />
+      <Item value="LoadProperty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="2" />
+      <Item value="IsNullOrWhiteSpace`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.BinaryDocument">
+      <Item value="name" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="Content" priority="2" />
+      <Item value="Size" priority="1" />
+      <Item value="LoadProperty`0" priority="2" />
+      <Item value="SaveAllProperties`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.PdfDocument">
+      <Item value="Name" priority="0" />
+      <Item value="IsEncrypted" priority="1" />
+      <Item value="NumberOfPages" priority="1" />
+      <Item value="LoadProperty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.WordDocument">
+      <Item value="NumberOfCharacters" priority="2" />
+      <Item value="Content" priority="0" />
+      <Item value="ChangeContent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.ExcelDocument">
+      <Item value="NumberOfRows" priority="3" />
+      <Item value="NumberOfColumns" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.OfficeDocument">
+      <Item value="Version" priority="2" />
+      <Item value="LoadProperty`0" priority="1" />
+      <Item value="SaveAllProperties`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.MultimediaDocument">
+      <Item value="Length" priority="2" />
+      <Item value="LoadProperty`0" priority="1" />
+      <Item value="SaveAllProperties`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.AudioDocument">
+      <Item value="SampleRate" priority="2" />
+      <Item value="SaveAllProperties`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.VideoDocument">
+      <Item value="FrameRate" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="12" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Any`1" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="Sort`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="2" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="2" />
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.IDocument">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Name" priority="1" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.IEncryptable">
+      <Item value="Encrypt`0" priority="2" />
+      <Item value="Decrypt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:_1.DocumentSystem.IEditable">
+      <Item value="ChangeContent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.Circle">
+      <Item value="Location" priority="0" />
+      <Item value="Center" priority="2" />
+      <Item value="Radius" priority="3" />
+      <Item value="GetArea`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.Vector3D">
+      <Item value="Normalize`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="Y" priority="0" />
+      <Item value="Magnitude" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="PI" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GeometryAPI.Vector3D">
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.IAreaMeasurable">
+      <Item value="GetArea`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.FigureController">
+      <Item value="currentFigure" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.IFlat">
+      <Item value="GetNormal`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.IVolumeMeasurable">
+      <Item value="GetVolume`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GeometryAPI.Cylinder">
+      <Item value="GetVolume`0" priority="0" />
+      <Item value="BottomCenter" priority="0" />
+      <Item value="TopCenter" priority="0" />
+      <Item value="Radius" priority="3" />
+      <Item value="Height" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:AudioDocument.cs" caret="259" fromTop="11" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:ExcelDocument.cs" caret="179" fromTop="2" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:IDocument.cs" caret="183" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:IEditable.cs" caret="194" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:IEncryptable.cs" caret="197" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:MultimediaDocument.cs" caret="183" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:OfficeDocument.cs" caret="180" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:PdfDocument.cs" caret="176" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:VideoDocument.cs" caret="178" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:WordDocument.cs" caret="262" fromTop="10" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:BinaryDocument.cs" caret="1721" fromTop="20" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:DocumentSystemTest.cs" caret="2916" fromTop="12" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:TextDocument.cs" caret="296" fromTop="12" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="5547" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="17841" fromTop="8" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="18427" fromTop="15" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="18566" fromTop="21" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="18703" fromTop="27" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="16609" fromTop="12" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="17425" fromTop="17" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="17550" fromTop="23" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="14966" fromTop="22" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="15207" fromTop="27" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="16005" fromTop="20" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="16252" fromTop="25" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="12416" fromTop="19" />
+      <File id="BD699BAA-EA55-42F6-89CA-C93EDD3E269D/f:GeometryApiTest.cs" caret="12794" fromTop="27" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:AudioDocument.cs" caret="179" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:BinaryDocument.cs" caret="187" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:BinaryDocument.cs" caret="1789" fromTop="9" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:TextDocument.cs" caret="1930" fromTop="14" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:TextDocument.cs" caret="2004" fromTop="12" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:TextDocument.cs" caret="185" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:DocumentSystemTest.cs" caret="167" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:DocumentSystemTest.cs" caret="3328" fromTop="4" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:ExcelDocument.cs" caret="179" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:IDocument.cs" caret="183" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:IEditable.cs" caret="194" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:IEncryptable.cs" caret="197" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:MultimediaDocument.cs" caret="183" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:OfficeDocument.cs" caret="180" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:PdfDocument.cs" caret="176" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:VideoDocument.cs" caret="178" fromTop="8" />
+      <File id="2C0C4C60-A722-4FDD-96A6-8A1E630E6980/f:WordDocument.cs" caret="177" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
